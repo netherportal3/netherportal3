@@ -1,6 +1,5 @@
 # About Me
-Software developer based in the USA. I build small web platforms, Discord tooling, and self-hosted services. Outside of code I tinker with networking gear and run a homelab.
-
+Software developer based in the USA. I build small web platforms, Discord tooling, and self-hosted services.
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pP5vrFFFdh)
 
